@@ -15,8 +15,11 @@ ul{
 }
 
 .photo
- { 
+ { 	border: solid 1px black;
 	
+	
+	padding: 20px;
+	background: white;
 	text-align:center;
 	margin-top: 10px;
 	margin-bottom: 20px;
