@@ -1,0 +1,53 @@
+body {
+color: black;
+background-color: orange;
+}
+
+span 	{ font-size: 32pt;  	}
+
+h1{
+	color: black;
+	font-weight:bold; 
+}
+ul{
+	margin-top:30px; 
+	font-size:1.25em;
+}
+
+.photo
+ { 
+	
+	text-align:center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+ }
+
+
+#wrap{
+	
+	margin: 0 auto;
+	width: 95%;
+	
+}
+#right{
+	width:50%;
+	float:left;
+	overflow:hidden;
+	
+	 
+}
+
+
+#left {
+	width:45%;
+	float:right;
+	 overflow:hidden;
+	
+}
+p {
+	margin-top:30px; 
+	font-size:1.25em;
+} 
+
+
+
